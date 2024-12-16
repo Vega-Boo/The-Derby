@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "The Derby": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
